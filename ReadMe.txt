@@ -1,4 +1,3 @@
-# ACM MM2017
 % ========================================================================
 % Relaxed Collaborative Representation, Version 1.0
 % Copyright(c) 2017 Qianqian Xu, Ming Yan, Chendi Huang, Jiechao Xiong, Qingming Huang, and Yuan Yao
@@ -20,7 +19,7 @@
 %
 % Please refer to the following paper:
 %
-% Qianqian Xu, Ming Yan, Chendi Huang, Jiechao Xiong, Qingming Huang, and Yuan Yao, ‚ÄúExploring Outliers in Crowdsourced Ranking for QoE‚Äù, ACM Conference on Multimedia, ACM MM 2017, 1540--1548, Mountain View, CA, USA, Oct 23-27, 2017. (Full paper, Oral)
+% Qianqian Xu, Ming Yan, Chendi Huang, Jiechao Xiong, Qingming Huang, and Yuan Yao, °∞Exploring Outliers in Crowdsourced Ranking for QoE°±, ACM Conference on Multimedia, ACM MM 2017, 1540--1548, Mountain View, CA, USA, Oct 23-27, 2017. (Full paper, Oral)
 % 
 % Contact: yuany@ust.hk, xuqianqian@ict.ac.cn
 %----------------------------------------------------------------------

@@ -1,0 +1,6 @@
+To detect the outliers in your paired comparison dataset:
+
+1. Load your paired comparison data (e.g. data1.txt file contains 3840 paired comparisons).  The first column in data1.txt is the video with better quality and the second column is the video with worse quality.
+
+2. Run \realworlddata.m to obtain the outliers detected in this dataset.
+ 
